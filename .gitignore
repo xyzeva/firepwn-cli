@@ -1,0 +1,4 @@
+*.txt
+*.log
+firebase.json
+scan.ts
